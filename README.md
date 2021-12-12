@@ -42,7 +42,21 @@ DirectedWeightedGraph dwg- Represents a graph.
 **GUIG:**
 MYFrame A class that extends JFrame implements ActionListener
 This class creates a screen that displays the graph along with the operations of save, load, run and set
-MYPanal extends JPanel This class uses graphis and it draws the vertices and sides of the graph for us
+MYPanal extends JPanel This class uses graphis and it draws the vertices and sides of the graph for us.
+
+If the user clicks Save "save me" then the file is saved successfully
+If the user clicks on "load me" then the graph will be displayed
+If the user clicks on run he can select functions running on the graph such as:
+-isconnect
+-center
+-tsp
+-shortestPathDist
+-shortestPath
+If the user dials a set he can select functions that run on the graph such as:
+-add node
+-add edge
+-remove node
+-remove edge
 
 Graph size 1000:
 
