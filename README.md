@@ -19,7 +19,7 @@ A class that contains all the data of the edges.
 
 A class that contains the coordinates of the nodes.
 
-**DWG
+**DWG**
 
 class representing a directional weighted graph,
             Class object:
