@@ -46,7 +46,8 @@ MYPanal extends JPanel This class uses graphis and it draws the vertices and sid
 
 Graph size 1000:
 
-![image](https://user-images.githubusercontent.com/93525881/145728919-46ca6e62-9733-48e0-97b1-a48a50c9e7fd.png)
+![image](https://user-images.githubusercontent.com/93525881/145729020-8345e1a0-3a72-4d6e-b5b7-2ab96ee35ded.png)
+
 
 
 
