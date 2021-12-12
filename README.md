@@ -45,5 +45,6 @@ This class creates a screen that displays the graph along with the operations of
 MYPanal extends JPanel This class uses graphis and it draws the vertices and sides of the graph for us
 
 Graph size 1000:
-![image](https://user-images.githubusercontent.com/93525881/145728847-3d4e8216-b9bf-4c4f-9885-a45f2daf1241.png)
+![image](https://user-images.githubusercontent.com/93525881/145728919-46ca6e62-9733-48e0-97b1-a48a50c9e7fd.png)
+
 
