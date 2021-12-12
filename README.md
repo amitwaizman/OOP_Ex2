@@ -1,19 +1,18 @@
 # OOP_Ex2-README
-314635756_206701187
-##Weighted
-directed graphs
+**314635756_206701187**
+**Weighted directed graphs**
 In this task, interfaces of:
 1. Interface of a weighted graph DirectedWeightedGraph
 2. Algorithm interface on graphs (weighted tuner). DirectedWeightedGraphAlgorithms
 
 
-#myNode: 
+*myNode:*
 A class that contains all the nodes' data.
-#myEdge: 
+*myEdge:* 
 A class that contains all the data of the edges.
-#gl: 
+*gl:*
 A class that contains the coordinates of the nodes.
-#DWG:
+*DWG:*
 class representing a directional weighted graph,
             Class object:
              HashNode - All nodes
@@ -24,7 +23,7 @@ class representing a directional weighted graph,
              sizeEdge = The number of edges in a graph
        
 
-#DWGA:
+*DWGA:*
 A class that implements the DirectedWeightedGraphAlgorithms interface
 Class object:
 DirectedWeightedGraph dwg- Represents a graph.
