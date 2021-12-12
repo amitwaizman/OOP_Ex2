@@ -49,6 +49,7 @@ Graph size 1000:
 ![image](https://user-images.githubusercontent.com/93525881/145729020-8345e1a0-3a72-4d6e-b5b7-2ab96ee35ded.png)
 
 
-
-
 Graph size 10000:
+
+![image](https://user-images.githubusercontent.com/93525881/145729074-bb52e84a-e376-40bc-acd5-997ed148dfa8.png)
+
