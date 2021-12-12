@@ -3,7 +3,9 @@
 **Weighted directed graphs**
 
 In this task, interfaces of:
+
 **1.** Interface of a weighted graph DirectedWeightedGraph
+
 **2.** Algorithm interface on graphs (weighted tuner). DirectedWeightedGraphAlgorithms
 
 
@@ -37,4 +39,11 @@ A class that implements the DirectedWeightedGraphAlgorithms interface
 Class object:
 DirectedWeightedGraph dwg- Represents a graph.
 
+**GUIG:**
+MYFrame A class that extends JFrame implements ActionListener
+This class creates a screen that displays the graph along with the operations of save, load, run and set
+MYPanal extends JPanel This class uses graphis and it draws the vertices and sides of the graph for us
+
 Graph size 1000:
+![image](https://user-images.githubusercontent.com/93525881/145728847-3d4e8216-b9bf-4c4f-9885-a45f2daf1241.png)
+
