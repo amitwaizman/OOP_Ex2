@@ -44,7 +44,7 @@ MYFrame A class that extends JFrame implements ActionListener
 This class creates a screen that displays the graph along with the operations of save, load, run and set
 MYPanal extends JPanel This class uses graphis and it draws the vertices and sides of the graph for us.
 
-**To load the graph you must add the full address of the file**
+**To load the graph you must add the full address of the file foe example: java -jar Ex2.jar C:\Users\USER\IdeaProjects\Ex2\src\data\G1.json**
 
 The red point symbolizes the direction of the arrow
 If the user clicks Save "save me" then the file is saved successfully
