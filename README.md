@@ -72,4 +72,5 @@ Graph size 100000:
 
 ![image](https://user-images.githubusercontent.com/93525881/145801850-55daa9da-89c1-43a6-bbfc-0714d5fe42b3.png)
 
+We were unable to run the million vertices because of a memory problem
 
