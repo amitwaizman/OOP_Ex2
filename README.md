@@ -44,6 +44,7 @@ MYFrame A class that extends JFrame implements ActionListener
 This class creates a screen that displays the graph along with the operations of save, load, run and set
 MYPanal extends JPanel This class uses graphis and it draws the vertices and sides of the graph for us.
 
+The red point symbolizes the direction of the arrow
 If the user clicks Save "save me" then the file is saved successfully
 If the user clicks on "load me" then the graph will be displayed
 If the user clicks on run he can select functions running on the graph such as:
@@ -66,4 +67,9 @@ Graph size 1000:
 Graph size 10000:
 
 ![image](https://user-images.githubusercontent.com/93525881/145729074-bb52e84a-e376-40bc-acd5-997ed148dfa8.png)
+
+Graph size 100000:
+
+![image](https://user-images.githubusercontent.com/93525881/145801850-55daa9da-89c1-43a6-bbfc-0714d5fe42b3.png)
+
 
