@@ -1,5 +1,4 @@
 # OOP_Ex2-README
-**314635756_206701187**
 **Weighted directed graphs**
 
 In this task, interfaces of:
